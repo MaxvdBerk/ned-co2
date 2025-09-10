@@ -1,0 +1,11 @@
+{
+  "domain": "ned_co2",
+  "name": "NED CO₂",
+  "codeowners": ["@you"],
+  "version": "0.1.0",
+  "documentation": "https://github.com/youruser/ned_co2",
+  "issue_tracker": "https://github.com/youruser/ned_co2/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "config_flow": true
+}

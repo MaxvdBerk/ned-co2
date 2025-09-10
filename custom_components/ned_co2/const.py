@@ -1,0 +1,19 @@
+DOMAIN = "ned_co2"
+PLATFORMS = ["sensor"]
+
+CONF_API_KEY = "api_key"
+CONF_POINT = "point"
+CONF_GRANULARITY = "granularity"
+CONF_WINDOW_DAYS = "window_days"
+CONF_LOCAL_TZ_FILTER = "local_tz_filter"
+
+DEFAULT_POINT = 0
+DEFAULT_GRANULARITY = 5
+DEFAULT_WINDOW_DAYS = 2
+DEFAULT_LOCAL_TZ_FILTER = True
+
+BASE_URL = "https://api.ned.nl/v1/utilizations"
+TYPE_ELECTRICITY_MIX = 27
+ACTIVITY_PROVIDING = 1
+CLASS_CURRENT = 2
+CLASS_FORECAST = 1

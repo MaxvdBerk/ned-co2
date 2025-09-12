@@ -73,7 +73,7 @@ series:
 - This uses NED `type=27` (Electricity Mix CO₂ EF).
 - Ensure your NED subscription includes both **current** and **forecast** data.
 - Default update interval: 5 minutes.
-
+- See, https://ned.nl/nl/handleiding-api
 ---
 
 ⚡️ Minimize your footprint: run appliances when the forecast EF is lowest!

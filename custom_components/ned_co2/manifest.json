@@ -2,7 +2,7 @@
   "domain": "ned_co2",
   "name": "NED CO₂",
   "codeowners": ["MaxvdBerk"],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "documentation": "https://github.com/MaxvdBerk/ned_co2",
   "issue_tracker": "https://github.com/MaxvdBerk/ned_co2/issues",
   "iot_class": "cloud_polling",
